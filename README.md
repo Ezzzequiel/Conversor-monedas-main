@@ -22,7 +22,3 @@ La aplicación permite a los usuarios realizar las siguientes acciones:
 - Lombok
 - JUnit
 - MySQL
-
-### Consultas o Dudas
-
-Para cualquier consulta o duda, por favor, comuníquese conmigo y le responderé a la brevedad.
